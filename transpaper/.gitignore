@@ -1,0 +1,8 @@
+output/
+input/
+fonts/*.ttf
+fonts/*.ttc
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
